@@ -1,3 +1,6 @@
+
+## This is what Ted(Suhaib) & Alice(Faten) did on Alice’s computer when working on the fourth feature.
+- Hi Hi Hi three hi(s) ^__^
 ## This is what Bob(Mariam) & Carol(Aseel) did on Carol’s computer when working on the first feature.
 - Engineer is a good major study.
  ## This is what ted(suhaib) & alice(faten) did on ted’s computer when working on the secand feature. 
